@@ -1,61 +1,5 @@
 {
-  "folderz": [{
-    "id": 1,
-    "name": "Inbox",
-    "meta": [{
-        "message-id": "123abc",
-        "from": "Jane Doe",
-        "subject": "Re: Postgres Meetup Thursday"
-    }, {
-        "message-id": "456def",
-        "from": "Richard Roe",
-        "subject": "Lunch Next Week"
-    }, {
-        "message-id": "789aaa",
-        "from": "Alan Turing",
-        "subject": "Emacs Release Update"
-    }, {
-        "message-id": "098ddd",
-        "from": "Grace Hopper",
-        "subject": "New Compiler Version Available"
-    }]
-  }, {
-    "id": 2,
-    "name": "Trash",
-    "meta": [{
-        "message-id": "999999",
-        "from": "Acme Corp",
-        "subject": "Package delivered Thursday"
-    }, {
-        "message-id": "88888888",
-        "from": "Richard Roe",
-        "subject": "Re: Project looks good"
-    }]
-  }, {
-    "id": 3,
-    "name": "Work Emails",
-    "meta": []
-  }, {
-    "id": 4,
-    "name": "Mailing Lists",
-    "meta": []
-  }, {
-    "id": 5,
-    "name": "Sent",
-    "meta": []
-  }, {
-    "id": 6,
-    "name": "Spam",
-    "meta": []
-  }, {
-    "id": 7,
-    "name": "Drafts",
-    "meta": []
-  }, {
-    "id": 8,
-    "name": "Personal",
-    "meta": []
-  }],
+  
   "folders": [
     "Inbox",
     "Trash",
@@ -92,12 +36,6 @@
       "from": "Richard Roe",
       "subject": "Re: Project looks good"
   }],
-  "work_emails": [],
-  "mailing_lists": [],
-  "sent": [],
-  "spam": [],
-  "drafts": [],
-  "personal": [],
   "messages": [{
       "from": "Grace Hopper <grace.hopper@example.com>",
       "id": "098ddd",
