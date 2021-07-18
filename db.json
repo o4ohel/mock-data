@@ -9,7 +9,7 @@
     "Drafts",
     "Personal"
   ],
-  "folders/inbox": [{
+  "folders_inbox": [{
       "message-id": "123abc",
       "from": "Jane Doe",
       "subject": "Re: Postgres Meetup Thursday"
