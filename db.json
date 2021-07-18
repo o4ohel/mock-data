@@ -1,6 +1,6 @@
 {
   "folderz": [{
-    "id": "inbox",
+    "id": 1,
     "name": "Inbox",
     "meta": [{
         "message-id": "123abc",
@@ -20,7 +20,7 @@
         "subject": "New Compiler Version Available"
     }]
   }, {
-    "id": "trash",
+    "id": 2,
     "name": "Trash",
     "meta": [{
         "message-id": "999999",
@@ -32,27 +32,27 @@
         "subject": "Re: Project looks good"
     }]
   }, {
-    "id": "work",
+    "id": 3,
     "name": "Work Emails",
     "meta": []
   }, {
-    "id": "lists",
+    "id": 4,
     "name": "Mailing Lists",
     "meta": []
   }, {
-    "id": "sent",
+    "id": 5,
     "name": "Sent",
     "meta": []
   }, {
-    "id": "spam",
+    "id": 6,
     "name": "Spam",
     "meta": []
   }, {
-    "id": "drafts",
+    "id": 7,
     "name": "Drafts",
     "meta": []
   }, {
-    "id": "personal",
+    "id": 8,
     "name": "Personal",
     "meta": []
   }],
